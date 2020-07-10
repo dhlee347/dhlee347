@@ -1,4 +1,6 @@
-### Hi there 👋
+### Dong-Hyun Lee 👋
+
+I'm currently working for AITRICS on Deep Learning Research (mainly NLP)
 
 <!--
 **dhlee347/dhlee347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
